@@ -4,13 +4,13 @@ A modern, responsive portfolio website showcasing my work, skills, and experienc
 
 ## Features
 
-- 🎨 Modern, minimalist design with dark theme
-- 📱 Fully responsive layout
-- 🌙 Dark mode support
-- ⚡ Smooth animations and transitions
-- 📄 Downloadable resume
-- 📬 Contact form
-- 🔗 Social media integration
+-  Modern, minimalist design with dark theme
+-  Fully responsive layout
+-  Dark mode support
+- Smooth animations and transitions
+- Downloadable resume
+- Contact form
+- Social media integration
 
 ## Tech Stack
 
