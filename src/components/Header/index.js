@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
-import { FaMoon, FaSun } from 'react-icons/fa';
+import { FaSun } from 'react-icons/fa';
 
 const HeaderContainer = styled.header`
   position: fixed;

@@ -1,6 +1,5 @@
-import React, { useState } from 'react';
+
 import styled, { ThemeProvider } from 'styled-components';
-import { motion } from 'framer-motion';
 
 // Components
 import Header from './components/Header';

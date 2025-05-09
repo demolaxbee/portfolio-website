@@ -1,7 +1,6 @@
-import React from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
-import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
+import { FaGithub } from 'react-icons/fa';
 
 const ProjectsSection = styled.section`
   padding: 6rem 0;
