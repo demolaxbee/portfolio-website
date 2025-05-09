@@ -108,7 +108,7 @@ const MobileMenu = styled(motion.div)`
 `;
 
 const Header = () => {
-  const [isScrolled, setIsScrolled] = useState(false);
+  const [, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   useEffect(() => {
